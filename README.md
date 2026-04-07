@@ -1,6 +1,6 @@
 # Iker Agent Team
 
-AI 에이전트 팀 스킬셋 for Claude Code. 7개 시니어 역할 + 오케스트레이터 + 170개 Knowledge 파일.
+AI 에이전트 팀 스킬셋 for Claude Code. 9개 시니어 역할 + 오케스트레이터 + 170개 Knowledge 파일.
 
 ## 역할
 
@@ -13,6 +13,8 @@ AI 에이전트 팀 스킬셋 for Claude Code. 7개 시니어 역할 + 오케스
 | `iker-qa` | QA Engineer | 24개 |
 | `iker-ops` | Operations Lead | 24개 |
 | `iker-da` | Data Analyst | 24개 |
+| `iker-cx` | Customer Experience | - |
+| `iker-am` | Account Manager | - |
 | `iker-team` | 오케스트레이터 | - |
 
 ## 설치
